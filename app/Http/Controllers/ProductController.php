@@ -231,6 +231,7 @@ class ProductController extends Controller
             'name',
             'description',
             'category_id',
+             'visibility',                                     
             'price',
             'quantity',
             'minimum_quantity'
