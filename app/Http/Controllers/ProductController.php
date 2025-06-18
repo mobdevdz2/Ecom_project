@@ -234,7 +234,8 @@ class ProductController extends Controller
             'category_id',
             'price',
             'quantity',
-            'minimum_quantity'
+            'minimum_quantity',
+             'visibility'                                     
         ]));
 
         $imagePaths = [];
